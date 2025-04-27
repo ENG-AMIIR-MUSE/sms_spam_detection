@@ -1,6 +1,2 @@
-matplotlib
-seaborn
-pandas
-scikit-learn
-nltk
-langdetect
+pandas 
+numpy 
