@@ -1,2 +1,8 @@
-pandas 
-numpy 
+Flask
+flask-cors
+pandas
+nltk
+scikit-learn
+joblib
+langdetect
+gunicorn
